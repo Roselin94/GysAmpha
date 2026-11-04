@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gys-ampha.vercel.app/sitemap.xml
